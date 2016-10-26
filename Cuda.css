@@ -1,0 +1,42 @@
+.header{
+			width:100%;
+			height:596px;
+			background:#87509C;
+			padding-bottom: 50px;
+}
+
+.header img{
+	margin-top:57px;
+	margin-left:212px;
+	float:left;
+
+}
+
+.nav{
+     padding-top: 132px; 
+     padding-left: 845px;
+}
+
+.nav ul li{
+	display: inline;
+ 	padding: 0 0.9em;
+    float: left;
+    font-family: 'Titillium Web', sans-serif;
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+.header p{
+	clear: both;
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 34px;
+	color: #FFFFFF;
+	line-height: 43px;
+}
+
+.bouton1{
+	margin-left: 330px;
+	clear: both;
+	float: left;
+}
