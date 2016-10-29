@@ -260,3 +260,83 @@
 	margin-left:675px;
 	margin-bottom: 27px;
 }
+
+.header4 {
+	width: 100%;
+	height: 655px;
+	background-color: #FFFFFF;
+	display: block;
+	float: left;
+	text-align: center;
+}
+
+.header4 h1{
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	color: #3c4761;
+	margin-top: 108px;
+	letter-spacing: 4px
+}
+
+.header4 h2{
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	color: #3c4761;
+	margin-bottom: 40px;
+	font-size: 17px;
+}
+
+.transition3{
+	width:65px;
+	height:3px;
+	background:#c8d9e5;
+	margin-left:675px;
+	margin-bottom: 27px;
+}
+
+.header4 h3{
+	color: #3c4761;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.skills1{
+	float:left;
+	margin-left:240px;
+}
+
+.skills2{
+	float:left;
+	margin-left: 30px;
+}
+
+.skills3{
+	float:left;
+	margin-left: 30px;
+}
+
+.skills4{
+	float:left;
+	margin-left: 30px;
+}
+
+.skills1 ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+
+.skills2 ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+
+.skills3 ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+.skills4 ul li{
+	list-style-type: none;
+	display: inline;
+}
