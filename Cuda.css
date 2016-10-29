@@ -17,6 +17,12 @@
      padding-left: 710px;
 }
 
+.nav li:hover{
+	border-radius: 3px;
+	cursor: pointer;
+	background-color:#643a79;
+}
+
 .nav ul li{
 	display: inline;
  	padding: 0 0.9em;
@@ -37,13 +43,13 @@
 }
 
 .bouton1{
-	margin-left: 540px;
+	margin-left: 560px;
 	margin-top: 50px;
 }
 
 .header2{
 			width:100%;
-			height:596px;
+			height:748px;
 			background:#17c2a4;
 			display: block;
 			float: left;
@@ -54,7 +60,7 @@
 	font-family: 'Titillium Web', sans-serif;
 	word-spacing: 3px;
 	clear: both;
-	padding-top: 52px;
+	padding-top: 135px;
 	color: #FFFFFF;
 	letter-spacing: 4px;
 }
@@ -72,7 +78,7 @@
 	width:65px;
 	height:3px;
 	background:#14a58c;
-	margin-left:635px;
+	margin-left:675px;
 	margin-bottom: 27px;
 }
 
@@ -82,7 +88,7 @@
 
 .drapeau{
 	float: left;
-	margin-left:250px;
+	margin-left:289px;
 }
 
 .drapeau h2{
@@ -104,7 +110,7 @@
 
 .crayon{
 	float: left;
-	margin-left: 50px;
+	margin-left: 60px;
 }
 
 .crayon h2{
@@ -126,7 +132,7 @@
 
 .ecrou{
 	float: left;
-	margin-left: 50px;
+	margin-left: 60px;
 }
 
 .ecrou h2{
@@ -148,7 +154,7 @@
 
 .fusee{
 	float: left;
-	margin-left: 50px;
+	margin-left: 60px;
 }
 
 .fusee h2{
@@ -166,4 +172,91 @@
 
 .fusee img{
 	margin-left: 19px;	
+}
+
+.header3 {
+	width: 100%;
+	height: 915px;
+	background-color: #e7f1f8;
+	display: block;
+	float: left;
+	text-align: center;
+}
+
+.header3 h1{
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	color: #3c4761;
+	margin-top: 122px;
+	letter-spacing: 4px
+}
+
+.header3 h2{
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	color: #3c4761;
+	margin-bottom: 40px;
+	font-size: 17px;
+}
+
+.lateam {
+	margin-left: 200px;
+}
+
+.lateam h3{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.lateam h4{
+	font-family: 'Titillium Web', sans-serif;
+	color:#30bae7;
+}
+
+.lateam p{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 14px;
+}
+
+.personnel1 {
+	float: left;
+}
+
+.personnel1 ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+.personnel2 {
+	float: left;
+}
+
+.personnel2 ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+.personnel3{
+	float: left;
+}
+
+.personnel3 ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+.personnel4{
+	float: left;
+}
+
+.personnel4 ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+.transition2{
+	width:65px;
+	height:3px;
+	background:#c8d9e5;
+	margin-left:675px;
+	margin-bottom: 27px;
 }
