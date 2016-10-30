@@ -531,7 +531,7 @@
 	float: left;
 	display: block;
 	margin-left: 30px;
-	margin-right: 20px;
+	margin-right: 75px;
 }
 
 .testi3 h3{
@@ -638,7 +638,8 @@
 
 .formcontact{
 	float: left;
-	margin-left: 100px;
+	margin-left: 400px;
+	margin-top:70px;
 	font-family: 'Titillium Web', sans-serif;
 	color: #FFFFFF;
 }
