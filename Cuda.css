@@ -636,34 +636,63 @@
 	float: left;
 }
 
-.formcontact{
-	float: left;
-	margin-left: 400px;
-	margin-top:70px;
-	font-family: 'Titillium Web', sans-serif;
-	color: #FFFFFF;
+.name-email{
+    text-align: center;
+    margin-right: 53px;
 }
 
-.form2{
-	border-radius: 4px;
-    background-color: #273a71;
-    border: 0;
+.name-email li{
+    list-style: none;
+    display: inline;
+    padding-left: 15px;
+}
+
+.name-email li input{
+    color: white;
+    background: #273a71;
+    border: none;
+    width: 358px;
+    padding: 20px 20px;
+    border-radius: 3px;
+}
+
+.emailtext{
+    text-align: center;
+
+}
+
+.emailtext textarea{
+    color: white;
+    background: #273a71;
+    width: 813px;
+    height: 200px;
+    border: none;
+    font-family: 'Titillium Web', sans-serif;
+    border-radius: 3px;
+}
+
+.emailtext textarea span{
+    color: red;
+}
+
+.bottom-button{
+    margin-top: 60px;
+    margin-right: 40%;
+    margin-left: 40%;
     height: 50px;
+    background: #30bae7;
+    border-radius: 5px;
+    text-align: center;
 }
 
-.form3{
-	border-radius: 4px;
-    background-color: #273a71;
-    border: 0;
-    height: 50px;
-    float: left;
+.bottom-button p{
+    padding-top: 13px;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
 }
 
-.form1{
-	border-radius: 4px;
-    background-color: #273a71;
-    border: 0;
-    resize: none;
+.bottom-button :hover{
+	cursor: pointer;
 }
 
 .header8 {
